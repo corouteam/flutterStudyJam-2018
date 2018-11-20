@@ -7,3 +7,6 @@
 
 [Esempio finale HelloRectangle](https://github.com/2coffees1team/flutterStudyJam/tree/master/Lezione%201/hello_rectangle)
 <- Da aprire con Android Studio
+
+## Materiale utile
+[Corso su Udacity](https://classroom.udacity.com/courses/ud905/)

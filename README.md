@@ -15,6 +15,8 @@
 
 [Esercizio su Widget Category (con soluzione)](https://github.com/2coffees1team/flutterStudyJam/tree/master/Lezione%202/esercitazione)
 
+## Lezione 3 (26 Novembre)
+[Sldies](https://github.com/2coffees1team/flutterStudyJam/blob/master/Lezione%203/studyjam%20terza%20lezione.pdf)
 
 ## Materiale utile
 [Corso su Udacity](https://classroom.udacity.com/courses/ud905/)
